@@ -1,5 +1,3 @@
-package com.spring.professional.exam.tutorial.module01.question34.beans;
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
